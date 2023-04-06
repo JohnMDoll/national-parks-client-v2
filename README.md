@@ -56,7 +56,7 @@ Follow the steps below to download and run this project on your computer
 - [ ] Server is required for full functionality. [View server repo here](https://github.com/nss-day-cohort-60/national-parks-django-api)
 - [ ] Clone this repo
 - [ ] From repo directory, run "npm install react"
-- [ ] Run something about leaflet and another thing and bootstrap maybe
+- [ ] Run "npm install leaflet" and "npm install bootstrap"
 - [ ] Run "npm start"
 
 
